@@ -1,0 +1,12 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.3.1"
+  export = ["external_greeting_service"]
+  icon = "docs/icon.png"
+  keywords = ["Kind/Sample","Type/Service","Category/Service","Internal/http"]
+  name = "external_greeting_service"
+  org = "applepear"
+  version = "3.1.1"
+
